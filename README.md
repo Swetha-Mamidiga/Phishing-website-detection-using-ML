@@ -8,7 +8,7 @@ The set of phishing URLs are collected from opensource service called **PhishTan
 
 The legitimate URLs are obatined from the open datasets of the University of New Brunswick, https://www.unb.ca/cic/datasets/url-2016.html. This dataset has a collection of benign, spam, phishing, malware & defacement URLs. Out of all these types, the benign url dataset is considered for this project. From this dataset, 5000 random legitimate URLs are collected to train the ML models.
 
-The above mentioned datasets are uploaded to the '[DataSets](https://github.com/ReethikaKethireddy/Phishing-Detection-using-ML-techniques/tree/main/DataSets)' folder of this repository.
+The above mentioned datasets are uploaded to the '[DataSets](https://github.com/Swetha-Mamidiga/Phishing-website-detection-using-ML/tree/main/DataSet)' folder of this repository.
 
 ## Feature Extraction
 The below mentioned category of features are extracted from the URL data:
